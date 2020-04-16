@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M10debugger", "M10debugger\M10debugger.csproj", "{7E5103C3-96CD-4641-B59B-B0D8234445F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alegeplads", "Alegeplads\Alegeplads.csproj", "{629600A5-79B5-43C9-AD77-7634B96FD735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E5103C3-96CD-4641-B59B-B0D8234445F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E5103C3-96CD-4641-B59B-B0D8234445F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E5103C3-96CD-4641-B59B-B0D8234445F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E5103C3-96CD-4641-B59B-B0D8234445F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{629600A5-79B5-43C9-AD77-7634B96FD735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629600A5-79B5-43C9-AD77-7634B96FD735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629600A5-79B5-43C9-AD77-7634B96FD735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629600A5-79B5-43C9-AD77-7634B96FD735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43403791-1C67-4E7F-A932-F14BEA09875E}
+	EndGlobalSection
+EndGlobal
