@@ -9,7 +9,7 @@ namespace DebugDemo
 
             Console.WriteLine("Debug demo");
 
-            // Variabel xxxxxxx
+            // Variabel 
             int x = 10;
             Console.WriteLine($"x = {x}");
             x++;
