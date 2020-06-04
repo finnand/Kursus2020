@@ -4,6 +4,7 @@ namespace M403_Regnemaskine
 {
     class Program
     {
+        // x
         private const string funktioner = "Indtast funktion: P(plus), M(minus), G(gange), D(dividér)";
 
         static void Main(string[] args)

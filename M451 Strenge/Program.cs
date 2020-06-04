@@ -6,7 +6,7 @@ namespace M451_Strenge
     {
         static void Main(string[] args)
         {
-            // Stopur 369 ms
+            // Stopur 369 ms x
             //System.Diagnostics.Stopwatch s = new System.Diagnostics.Stopwatch();
             //s.Start();
             //string a = "";

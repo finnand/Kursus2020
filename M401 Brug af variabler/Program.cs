@@ -6,6 +6,7 @@ namespace M401_Brug_af_variabler
     {
         static void Main(string[] args)
         {
+            // x
             int tal = 10;
             Console.WriteLine("tal = "+tal);
 

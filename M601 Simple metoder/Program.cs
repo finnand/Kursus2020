@@ -19,7 +19,7 @@ namespace M601_Simple_metoder
 
         }
 
-        static int LægSammen(int a, int b)
+        static int LægSammen(int a, int b) 
         {
             return (a + b);
         }

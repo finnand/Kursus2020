@@ -11,7 +11,7 @@ namespace M904_Brug_af_automatiske_egenskaber
             Person p = new Person();
             p.Fornavn = "Finn";
             p.Efternavn = "Bo";
-            Console.WriteLine(p.FuldtNavn());
+            Console.WriteLine(p.FuldtNavn()); 
 
             p.Efternavn = "Andersen";
             Console.WriteLine(p.FuldtNavn());

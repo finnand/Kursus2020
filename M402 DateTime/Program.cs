@@ -7,6 +7,7 @@ namespace M402_DateTime
     {
         static void Main(string[] args)
         {
+            // x
             DateTime d1 = DateTime.Now;
             Console.WriteLine(d1);
 

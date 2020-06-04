@@ -6,7 +6,7 @@ namespace M481_Brug_af_enum
     {
         static void Main(string[] args)
         {
-            // Hjerter 2
+            // Hjerter 2 
             int kort1Værdi = 2;                         // værdi
             KortKulør kort1Kulør = KortKulør.Hjerter;   // kulør
 

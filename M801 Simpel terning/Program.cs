@@ -8,7 +8,7 @@ namespace M801_Simpel_terning
         {
             Terning t1 = new Terning();
             Console.WriteLine(t1.værdi);    // 1
-            t1.Ryst();
+            t1.Ryst(); 
             Console.WriteLine(t1.værdi);    // tilfældig værdi
 
             Terning t2 = new Terning(true);

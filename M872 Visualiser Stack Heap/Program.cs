@@ -8,7 +8,7 @@ namespace M872_Visualiser_Stack_Heap
         static void Main(string[] args)
         {
 
-            // Spørgsmål 1 
+            // Spørgsmål 1  
             Terning t1 = new Terning(3);
             t1.Skriv();
             Console.WriteLine();

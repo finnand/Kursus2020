@@ -7,7 +7,7 @@ namespace M0602_Statiske_metoder
         static void Main(string[] args)
 
         {
-            // Opret en fil på c:\temp kaldet test.txt og put lidt tekst i 
+            // Opret en fil på c:\temp kaldet test.txt og put lidt tekst i  
             // PS: Husk at windows kunne finde på at kalde den test.txt.txt (gem som "test.txt" - altså med anførselstegn)
             bool t = System.IO.File.Exists(@"c:\temp\test.txt");
 

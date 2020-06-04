@@ -7,7 +7,7 @@ namespace M751_Samlinger_simpel
     {
         static void Main(string[] args)
         {
-            List<int> lst = new List<int>();
+            List<int> lst = new List<int>(); 
             lst.Add(4);
             lst.Add(7);
             lst.Add(2);

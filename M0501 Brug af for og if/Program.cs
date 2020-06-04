@@ -23,7 +23,7 @@ namespace M0501_Brug_af_for_og_if
                     Console.WriteLine();
                 }
 
-                // Hold console åben ved debug (kun nødvendigt ved .NET Framework - ikke .NET Core) 
+                // Hold console åben ved debug (kun nødvendigt ved .NET Framework - ikke .NET Core)  
                 if (System.Diagnostics.Debugger.IsAttached)
                 {
                     Console.Write("Press any key to continue . . . ");
