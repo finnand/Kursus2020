@@ -6,4 +6,9 @@
     <RootNamespace>M0602_Statiske_metoder</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MCronberg.CSCourseHelper.Standard" Version="1.0.4" />
+    <PackageReference Include="Microsoft.CodeAnalysis.CSharp.Scripting" Version="3.7.0-1.final" />
+  </ItemGroup>
+
 </Project>

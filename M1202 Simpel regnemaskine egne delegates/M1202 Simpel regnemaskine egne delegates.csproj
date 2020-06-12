@@ -6,4 +6,9 @@
     <RootNamespace>M1202_Simpel_regnemaskine_egne_delegates</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MCronberg.CSCourseHelper.Standard" Version="1.0.4" />
+    <PackageReference Include="Microsoft.CodeAnalysis.CSharp.Scripting" Version="3.7.0-1.final" />
+  </ItemGroup>
+
 </Project>

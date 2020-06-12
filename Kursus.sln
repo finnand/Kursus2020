@@ -41,11 +41,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M0602 Statiske metoder", "M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M1101 Eget interface", "M1101 Eget interface\M1101 Eget interface.csproj", "{023C5AB0-5EA3-41A8-87F1-A9373B9093BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M1201 delegates helt simpel", "M1201 delegates helt simpel\M1201 delegates helt simpel.csproj", "{FF7C7990-DC65-4BB1-A953-E945E4A73B66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M1201 delegates helt simpel", "M1201 delegates helt simpel\M1201 delegates helt simpel.csproj", "{FF7C7990-DC65-4BB1-A953-E945E4A73B66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M1202 Simpel regnemaskine egne delegates", "M1202 Simpel regnemaskine egne delegates\M1202 Simpel regnemaskine egne delegates.csproj", "{77BC23EC-8312-4CC3-99A8-3813F10A2F01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M1202 Simpel regnemaskine egne delegates", "M1202 Simpel regnemaskine egne delegates\M1202 Simpel regnemaskine egne delegates.csproj", "{77BC23EC-8312-4CC3-99A8-3813F10A2F01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M1203 Delegates log", "M1203 Delegates log\M1203 Delegates log.csproj", "{55BA3EC6-BCA7-4A8F-8303-DD1908716D30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M1203 Delegates log", "M1203 Delegates log\M1203 Delegates log.csproj", "{55BA3EC6-BCA7-4A8F-8303-DD1908716D30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M1205 Delegates Lambda", "M1205 Delegates Lambda\M1205 Delegates Lambda.csproj", "{2D0D5917-307D-4811-A3C4-0C257825B456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M1206 Simpel regnemaskine Lambda", "M1206 Simpel regnemaskine Lambda\M1206 Simpel regnemaskine Lambda.csproj", "{9B41482A-A22B-48AD-97F2-66039AF5EC8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +145,14 @@ Global
 		{55BA3EC6-BCA7-4A8F-8303-DD1908716D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55BA3EC6-BCA7-4A8F-8303-DD1908716D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55BA3EC6-BCA7-4A8F-8303-DD1908716D30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D0D5917-307D-4811-A3C4-0C257825B456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D0D5917-307D-4811-A3C4-0C257825B456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D0D5917-307D-4811-A3C4-0C257825B456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D0D5917-307D-4811-A3C4-0C257825B456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B41482A-A22B-48AD-97F2-66039AF5EC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B41482A-A22B-48AD-97F2-66039AF5EC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B41482A-A22B-48AD-97F2-66039AF5EC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B41482A-A22B-48AD-97F2-66039AF5EC8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

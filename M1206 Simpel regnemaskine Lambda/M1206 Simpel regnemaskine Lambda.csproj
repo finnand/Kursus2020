@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>M1101_Eget_interface</RootNamespace>
+    <RootNamespace>M1206_Simpel_regnemaskine_Lambda</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
